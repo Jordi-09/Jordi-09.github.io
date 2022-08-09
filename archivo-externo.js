@@ -1,0 +1,1 @@
+document.body.innerHTML += `<p>Im writing this form a external document, let me explein that. From a document java script im adding content to my main html document with this code:`
